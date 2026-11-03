@@ -1,0 +1,6 @@
+{
+  "name": "Logicontrols - Automatización Industrial",
+  "description": "Automatización que impulsa tu industria. Control inteligente, equipos PLC, variadores de frecuencia y soluciones eléctricas de alta gama.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
