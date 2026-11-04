@@ -12,10 +12,10 @@ export const COMPANY_INFO = {
   coverage: 'Cobertura nacional en toda Colombia y soporte remoto para Latinoamérica',
 };
 
-export const HERO_IMAGE = '/src/assets/images/hero_robotic_automation_1793741569408.jpg';
-export const ENGINEER_IMAGE = '/src/assets/images/engineer_electrical_cabinet_1793741569290.jpg';
-export const PLC_IMAGE = '/src/assets/images/plc_industrial_controller_1793741569852.jpg';
-export const VFD_IMAGE = '/src/assets/images/vfd_frequency_inverter_1793741567903.jpg';
+export const HERO_IMAGE = '/assets/images/hero_robotic_automation_1793741569408.jpg';
+export const ENGINEER_IMAGE = '/assets/images/engineer_electrical_cabinet_1793741569290.jpg';
+export const PLC_IMAGE = '/assets/images/plc_industrial_controller_1793741569852.jpg';
+export const VFD_IMAGE = '/assets/images/vfd_frequency_inverter_1793741567903.jpg';
 export const SHOWCASE_POSTER = '/public/assets/aistudio/Galer_a_m_vil_de_automatizaci_n_industrial_24f110e8.png';
 
 export const PRODUCTS_DATA: Product[] = [
@@ -35,8 +35,8 @@ export const PRODUCTS_DATA: Product[] = [
     fullDescription: 'El SIMATIC S7-1200 de Siemens ofrece la flexibilidad y la potencia para controlar una amplia variedad de dispositivos en apoyo de sus necesidades de automatización. Con diseño compacto, configuración flexible y un potente conjunto de instrucciones, es la solución perfecta para controlar una amplia variedad de aplicaciones.',
     images: [
       PLC_IMAGE,
-      '/src/assets/images/plc_industrial_controller_1793741569852.jpg',
-      '/src/assets/images/engineer_electrical_cabinet_1793741569290.jpg',
+      '/assets/images/plc_industrial_controller_1793741569852.jpg',
+      '/assets/images/engineer_electrical_cabinet_1793741569290.jpg',
     ],
     features: [
       'Alta confiabilidad industrial continua 24/7',
@@ -73,7 +73,7 @@ export const PRODUCTS_DATA: Product[] = [
     fullDescription: 'El variador de frecuencia industrial VF-500 de 7.5kW (10HP) proporciona control vectorial sin sensor de alta precisión para motores asíncronos y síncronos. Ofrece reducción del consumo energético, arranque suave para evitar picos de corriente mecánica y control PID integrado.',
     images: [
       VFD_IMAGE,
-      '/src/assets/images/vfd_frequency_inverter_1793741567903.jpg',
+      '/assets/images/vfd_frequency_inverter_1793741567903.jpg',
       HERO_IMAGE,
     ],
     features: [
